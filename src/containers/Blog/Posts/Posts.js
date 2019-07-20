@@ -32,6 +32,7 @@ class Posts extends Component{
         });
     }
 
+    
 
     postSelectedHandler = (id) => {
         // this.setState({selectedPostId: id});
